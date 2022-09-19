@@ -1,4 +1,4 @@
 # projeto_git
  repositorio de teste
 
- Adicionando algumas linhas
+ Adicionando algumas linhas...
