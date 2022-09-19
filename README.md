@@ -35,7 +35,7 @@ rapidly building custom designs.
 
 ## Author:
 
-* **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
+* **Lorhan Gabriel** - [LinkedIn](https://www.linkedin.com/in/lorhanlopes/)
 
 
 ## Licença
