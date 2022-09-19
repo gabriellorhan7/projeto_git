@@ -35,7 +35,7 @@ rapidly building custom designs.
 
 ## Author:
 
-* **Lorhan Gabriel** - [LinkedIn](linkedin.com/in/lorhan-lopes-3742a71b2)
+* **Lorhan Gabriel** - [LinkedIn](https://www.linkedin.com/in/lorhan-gabriel/)
 
 
 ## Licença
